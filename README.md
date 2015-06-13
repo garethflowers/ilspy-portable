@@ -12,7 +12,7 @@ ILSpy Portable is the ILSpy packaged with a PortableApps.com launcher as a porta
 
 ## Credits
 
-* ILSpy Portable is a redistribution of [ILSpy](https://www.torproject.org/projects/torbrowser.html).
+* ILSpy Portable is a redistribution of [ILSpy](http://ilspy.net/).
 
 ## License
 
